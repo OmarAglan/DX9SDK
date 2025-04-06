@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But keep the Include and Lib directories
+!Include/
+!Lib/
+
+# Keep this .gitignore file
+!.gitignore 
